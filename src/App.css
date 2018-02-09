@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+div {
+  display: block;
+}
+
+.w3-light-grey, .w3-hover-light-grey:hover, .w3-light-gray, .w3-hover-light-gray:hover {
+  color: #000!important;
+  background-color: #f1f1f1!important;
+}
+
+.w3-padding {
+  padding: 8px 16px!important;
+}
+
+.w3-large {
+  font-size: 18px!important;
+}
+p {
+  display: block;
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+}
+
+.questionOptions{
+  padding-left: 30%;
+  border-right-width: 100px;
+  padding-right: 30%;
+  text-align: left !important;
+}
